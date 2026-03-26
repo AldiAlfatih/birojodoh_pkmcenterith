@@ -36,12 +36,6 @@ export default function Header() {
             >
               Lihat Tim
             </a>
-            <a
-              href="#tentang"
-              className="text-sm font-medium text-foreground transition-colors hover:text-primary"
-            >
-              Tentang
-            </a>
           </div>
 
           {/* Mobile Menu Button (optional) */}
