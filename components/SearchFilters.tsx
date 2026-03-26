@@ -20,7 +20,7 @@ export default function SearchFilters({
   setSkemaFilter,
 }: SearchFiltersProps) {
   return (
-    <section className="border-b border-border bg-background py-12 sm:py-16">
+    <section id="tim" className="border-b border-border bg-background py-12 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 sm:px-8 lg:px-10">
         <div className="space-y-4 sm:flex sm:gap-3 sm:space-y-0">
           {/* Search Bar */}

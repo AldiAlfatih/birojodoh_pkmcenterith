@@ -1,6 +1,6 @@
 export default function HeroSection() {
   return (
-    <section className="border-b border-border bg-background py-16 sm:py-24 lg:py-32">
+    <section id="home" className="border-b border-border bg-background py-16 sm:py-24 lg:py-32">
       <div className="mx-auto max-w-7xl px-6 text-center sm:px-8 lg:px-10 flex flex-col items-center">
         <h1 className="text-4xl font-bold text-primary sm:text-5xl lg:text-6xl">
           Biro Jodoh PKM 2026
