@@ -97,6 +97,21 @@ const teamData = [
     keahlian_dicari: ['AI', 'Pangan', 'Software Engineering'],
     wa: '6285179884791',
   },
+  {
+    id: 7,
+    nama: 'Akbar Hidayat',
+    nim: '241031023',
+    ig: '@akbrhdyytt',
+    prodi: 'Sistem Informasi',
+    angkatan: '2024',
+    skema: 'PKM-KC',
+    status: 'Cari Anggota',
+    minat: 'Pelestarian Lingkungan dan Mitigasi Bencana',
+    butuh_anggota: 1,
+    skill: ['Database System', 'Computer Networking', 'Web Development', 'Operating Systems'],
+    keahlian_dicari: ['Internet of Things'],
+    wa: '6287843840589',
+  },
 ];
 
 export default function Home() {
